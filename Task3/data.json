@@ -1,0 +1,46 @@
+[
+    {
+        "First Name": "nabil",
+        "Email": "nowsher.ali28@gmail.com",
+        "Password": "123456",
+        "Comment": "xyz",
+        "Gender": "Male",
+        "Fileupload": "Files\/aiub3.png",
+        "Hobby 1": "Singing",
+        "Hobby 2": null,
+        "Hobby 3": null
+    },
+    {
+        "First Name": "Mohammed Nawshar Ali Khan",
+        "Email": "nowsher.ali28@gmail.com",
+        "Password": "123456",
+        "Comment": "Hello",
+        "Gender": "Male",
+        "Fileupload": "Files\/aiub3.png",
+        "Hobby 1": "Singing",
+        "Hobby 2": null,
+        "Hobby 3": "Reading"
+    },
+    {
+        "First Name": "abc",
+        "Email": "nowsher.ali11@gmail.com",
+        "Password": "1231231232313",
+        "Comment": "asdasdas",
+        "Gender": "Male",
+        "Fileupload": "Files\/Capture.PNG",
+        "Hobby 1": "Singing",
+        "Hobby 2": null,
+        "Hobby 3": null
+    },
+    {
+        "First Name": "nabil",
+        "Email": "nowsher.ali28@gmail.com",
+        "Password": "12121221212",
+        "Comment": "abcd",
+        "Gender": "Male",
+        "Fileupload": "Files\/Capture3.PNG",
+        "Hobby 1": "Singing",
+        "Hobby 2": null,
+        "Hobby 3": "Reading"
+    }
+]
