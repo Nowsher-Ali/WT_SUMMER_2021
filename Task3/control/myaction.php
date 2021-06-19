@@ -7,7 +7,7 @@ $validatepassword="";
 $validatecomment="";
 $v1=$v2=$v3="";
 $name=$email=$password=$gender="";
-if(isset($_POST["Submit"]))
+if($_SERVER["REQUEST_METHOD"]=="POST")
 {
 $name=$_REQUEST["fname"];
 $email=$_REQUEST["email"];

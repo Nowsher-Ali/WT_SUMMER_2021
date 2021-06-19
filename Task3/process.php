@@ -1,3 +1,4 @@
+<?php   include "Registration.php" ; ?>
 <?php include "control/myaction.php"; ?>
 
 <?php
