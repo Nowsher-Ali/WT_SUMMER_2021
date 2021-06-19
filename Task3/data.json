@@ -5,7 +5,7 @@
         "Password": null,
         "Comment": null,
         "Gender": null,
-        "Fileupload": null,
+        "File Path": null,
         "Hobby 1": null,
         "Hobby 2": null,
         "Hobby 3": null
@@ -16,7 +16,7 @@
         "Password": "789101112",
         "Comment": "Good day",
         "Gender": "Male",
-        "Fileupload": "Files\/aiub3.png",
+        "File Path": "Files\/aiub3.png",
         "Hobby 1": "Singing",
         "Hobby 2": null,
         "Hobby 3": "Reading"
