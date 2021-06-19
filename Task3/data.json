@@ -1,16 +1,5 @@
 [
     {
-        "Full Name": null,
-        "Email": null,
-        "Password": null,
-        "Comment": null,
-        "Gender": null,
-        "File Path": null,
-        "Hobby 1": null,
-        "Hobby 2": null,
-        "Hobby 3": null
-    },
-    {
         "Full Name": "Ali",
         "Email": "nowsher.ali11@gmail.com",
         "Password": "789101112",
@@ -18,6 +7,17 @@
         "Gender": "Male",
         "File Path": "Files\/aiub3.png",
         "Hobby 1": "Singing",
+        "Hobby 2": null,
+        "Hobby 3": "Reading"
+    },
+    {
+        "Full Name": "nabil",
+        "Email": "nowsher.ali28@gmail.com",
+        "Password": "123456",
+        "Comment": "Hello",
+        "Gender": "Male",
+        "File Path": "Files\/Capture.PNG",
+        "Hobby 1": null,
         "Hobby 2": null,
         "Hobby 3": "Reading"
     }
