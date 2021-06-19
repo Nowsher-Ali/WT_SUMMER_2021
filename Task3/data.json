@@ -1,14 +1,14 @@
 [
     {
-        "Full Name": "nabil",
-        "Email": "nowsher.ali28@gmail.com",
-        "Password": "123456",
-        "Comment": "Hello",
-        "Gender": "Male",
-        "Fileupload": "Files\/Capture.PNG",
+        "Full Name": null,
+        "Email": null,
+        "Password": null,
+        "Comment": null,
+        "Gender": null,
+        "Fileupload": null,
         "Hobby 1": null,
         "Hobby 2": null,
-        "Hobby 3": "Reading"
+        "Hobby 3": null
     },
     {
         "Full Name": "Ali",
@@ -16,7 +16,7 @@
         "Password": "789101112",
         "Comment": "Good day",
         "Gender": "Male",
-        "Fileupload": "Files\/Capture3.PNG",
+        "Fileupload": "Files\/aiub3.png",
         "Hobby 1": "Singing",
         "Hobby 2": null,
         "Hobby 3": "Reading"
