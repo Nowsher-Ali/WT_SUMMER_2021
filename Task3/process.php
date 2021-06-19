@@ -2,9 +2,8 @@
 
 <?php
    	
-	   //Get form data
 	   $formdata = array(
-	      'First Name' => $_POST["fname"],
+	      'Full Name' => $_POST["fname"],
 	      'Email' => $_POST["email"],
 	      'Password' => $_POST["Password"],
           'Comment' => $_POST['Comment'],
@@ -17,10 +16,9 @@
        $existingdata = file_get_contents('data.json');
        $tempJSONdata = json_decode($existingdata);
        $tempJSONdata[] = $formdata;
-       //Convert updated array to JSON
+
 	   $jsondata = json_encode($tempJSONdata, JSON_PRETTY_PRINT);
 	   
-	   //write json data into data.json file
 	   if(file_put_contents("data.json", $jsondata)) {
 	        echo "Data successfully saved <br>";
 	    }
