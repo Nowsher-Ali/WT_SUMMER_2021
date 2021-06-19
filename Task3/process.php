@@ -8,7 +8,7 @@
 	      'Password' => $_POST["Password"],
           'Comment' => $_POST['Comment'],
           'Gender' => $_POST['gender'],
-           'Fileupload' => $target_file,
+           'File Path' => $target_file,
 		   'Hobby 1' => $_POST['Hobby1'],
 		   'Hobby 2' => $_POST['Hobby2'],
 		   'Hobby 3' => $_POST['Hobby3'],
