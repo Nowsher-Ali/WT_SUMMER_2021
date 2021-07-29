@@ -3,7 +3,8 @@
 <script src="js/JSvalidation.js"></script>
 </head>
 <body>
-
+<h1>Registration Form</h1>
+<hr>
 <form action="" onsubmit="return validateForm()" method="post">
 <table>
 				<tr>
